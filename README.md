@@ -1,7 +1,6 @@
 # Litingweifallen.github.io
 <html>
   <head>
-    <title>$Title$</title>
   </head>
   <body>
   <img src="tupian.jpg"/>
